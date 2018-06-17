@@ -40,7 +40,7 @@ body {
     padding: 14px 12px;
     text-decoration: none;
     position: relative;
-    font-size:10px;
+    font-size:15px;
 
 }
 a:after {
@@ -117,6 +117,7 @@ a:after {
     margin-left:100px;
     margin-top: 110px;
     text-align: center;
+    font-size: 15;
 }
 
 .paragraph ul{
@@ -140,8 +141,8 @@ img{
     max-width: 70%;
     height: auto;
     display: block;
-    margin-right: 15%;
-    margin-left: 15%;
+    margin-right: auto;
+    margin-left: auto;
     border: black ;
 }
 iframe{
