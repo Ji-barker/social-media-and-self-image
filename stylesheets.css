@@ -147,8 +147,8 @@ img{
 }
 iframe{
     margin: 0 auto;
+    max-width:70%;
     display: block;
-    align: middle;
 }
 
 
